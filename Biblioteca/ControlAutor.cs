@@ -72,12 +72,47 @@ namespace Biblioteca
                         break;
                     case 4:
                         Console.WriteLine("Atualizar Autor");
-                        break;
+                        Console.WriteLine("Informe o código do autor para atualizar");
+                        codigo = Convert.ToInt32(Console.ReadLine());
 
+                        //menu de atualização
+                        Console.WriteLine("Escolha o que quer atualizar: \n\n " +
+                                          "\n 1-Nome"                             +
+                                          "\n 2-Gênero"                           +
+                                          "\n 3-Endereço\n");
+
+                        int opcaocampo = Convert.ToInt32(Console.ReadLine());
+                        string campo = "";
+                        //Escolha
+                        switch (opcaocampo)
+                        {
+                            case 1:
+                                campo = "nome";
+                                break;
+                            case 2:
+                                campo = "genero";
+                                break;
+                            case 3:
+                                campo = "endereco";
+                                break;
+                            default:
+                                Console.WriteLine("Não é possivel atulizar Escolha um código válido");
+                                break;
+                        }//fim do escolha 
+                        Console.WriteLine($"Informe um novo {campo}");
+                        string novoDado = Console.ReadLine();   
+                        Console.WriteLine(this.autor.Atualiazar(codigo, campo, novoDado));//chamar para atualizar
+                        break;
 
                     case 5:
                         Console.WriteLine("Excluir Autor");
+                        //solicita
+                        Console.WriteLine("Informe o autor que deseja excluir");
+                        codigo = Convert.ToInt32(Console.ReadLine());
+
+                        Console.WriteLine( this.autor.Deletar(codigo));
                         break;
+
                     default:
                         Console.WriteLine("Código  informado é invalido");
                         break;

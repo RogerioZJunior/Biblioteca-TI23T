@@ -139,7 +139,7 @@ namespace Biblioteca
         {
             try
             {
-                string query = $"update autor set{campo} = '{novoDado}' where codigo = '{codigo}' ";
+                string query = $"update autor set {campo} = '{novoDado}' where codigo = '{codigo}' ";
 
                 MySqlCommand sql = new MySqlCommand(query, this.conexao);
                 string resultado = "" + sql.ExecuteNonQuery();
