@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\biblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|c:\\users\\rogerio.zjunior\\source\\repos\\biblioteca\\biblioteca\\consutar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\consutar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|c:\\users\\rogerio.zjunior\\source\\repos\\biblioteca\\biblioteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|c:\\users\\rogerio.zjunior\\source\\repos\\biblioteca\\biblioteca\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|c:\\users\\rogerio.zjunior\\source\\repos\\biblioteca\\biblioteca\\consutar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\consutar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|c:\\users\\rogerio.zjunior\\source\\repos\\biblioteca\\biblioteca\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|c:\\users\\rogerio.zjunior\\source\\repos\\biblioteca\\biblioteca\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|c:\\users\\rogerio.zjunior\\source\\repos\\biblioteca\\biblioteca\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\biblioteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|c:\\users\\rogerio.zjunior\\source\\repos\\biblioteca\\biblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515DF67A-20A3-459E-AD02-B9AC6144553B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +51,116 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Consutar.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Consutar.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Consutar.cs",
+              "ToolTip": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Consutar.cs",
+              "RelativeToolTip": "Biblioteca\\Consutar.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAjwCkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:33:27.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consutar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Consutar.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Consutar.cs",
+              "ToolTip": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Consutar.cs [Design]",
+              "RelativeToolTip": "Biblioteca\\Consutar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:31:35.06Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Cadastrar.cs",
+              "RelativeToolTip": "Biblioteca\\Cadastrar.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:01:09.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadastrar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Cadastrar.cs [Design]",
+              "RelativeToolTip": "Biblioteca\\Cadastrar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T17:45:49.354Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Menu.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Menu.cs",
+              "ToolTip": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Menu.cs",
+              "RelativeToolTip": "Biblioteca\\Menu.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T17:38:46.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Menu.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Menu.cs",
+              "ToolTip": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Menu.cs [Design]",
+              "RelativeToolTip": "Biblioteca\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T17:00:01.026Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ControlAutor.cs",
               "DocumentMoniker": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\ControlAutor.cs",
               "RelativeDocumentMoniker": "Biblioteca\\ControlAutor.cs",
               "ToolTip": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\ControlAutor.cs",
               "RelativeToolTip": "Biblioteca\\ControlAutor.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T17:19:07.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DAOAutor.cs",
               "DocumentMoniker": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\DAOAutor.cs",
               "RelativeDocumentMoniker": "Biblioteca\\DAOAutor.cs",
               "ToolTip": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\DAOAutor.cs",
               "RelativeToolTip": "Biblioteca\\DAOAutor.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAwwI0AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T16:59:22.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Program.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
               "ToolTip": "C:\\Users\\rogerio.zjunior\\source\\repos\\Biblioteca\\Biblioteca\\Program.cs",
               "RelativeToolTip": "Biblioteca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T16:55:28.342Z"
+              "WhenOpened": "2026-04-02T16:55:28.342Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -6,6 +6,8 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
+using System.Windows.Forms;//importanto telas
+
 
 
 namespace Biblioteca
@@ -31,11 +33,11 @@ namespace Biblioteca
             try
             {
                 this.conexao.Open();//abrir conexão
-                Console.WriteLine("Conectado com sucesso");
+                MessageBox.Show("Conectado com sucesso");
             }
             catch (Exception erro)
             {
-                Console.WriteLine($"Algo deu errado! \n\n {erro}");
+                MessageBox.Show($"Algo deu errado! \n\n {erro}");
                 this.conexao.Close();//fecha conexão com bd
             }//fim do try catch
         }//fim do DAOAutor
@@ -50,11 +52,11 @@ namespace Biblioteca
                 this.comando = $"Insert into autor (codigo, nome, genero, endereco) values{this.dados}";
                 MySqlCommand sql = new MySqlCommand(this.comando, this.conexao);
                 string resultado = "" +  sql.ExecuteNonQuery();
-                Console.WriteLine($"Inserido com sucesso! \n\n{resultado}");
+                MessageBox.Show($"Inserido com sucesso! \n\n{resultado}");
             }
             catch (Exception erro)
             {
-                Console.WriteLine($"Algo deu errado\n\n {erro}");
+                MessageBox.Show($"Algo deu errado\n\n {erro}");
             }//fim do catch           
         }
          

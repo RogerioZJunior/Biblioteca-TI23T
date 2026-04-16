@@ -37,3 +37,8 @@ C:\Users\rogerio.zjunior\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca
 C:\Users\rogerio.zjunior\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
 C:\Users\rogerio.zjunior\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
 C:\Users\rogerio.zjunior\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe.config
+C:\Users\rogerio.zjunior\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Menu.resources
+C:\Users\rogerio.zjunior\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\rogerio.zjunior\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\rogerio.zjunior\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Cadastrar.resources
+C:\Users\rogerio.zjunior\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Consutar.resources
